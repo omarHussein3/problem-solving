@@ -10,8 +10,8 @@ public class StringE {
     }
 
     public static void main(String[] args) {
-        System.out.println(stringE("candy"));
-        System.out.println(stringE("x"));
-        System.out.println(stringE("not candy"));
+        System.out.println(stringE("hello"));
+        System.out.println(stringE("heelle"));
+        System.out.println(stringE("heelele"));
     }
 }
