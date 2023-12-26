@@ -12,7 +12,7 @@ public class ExtraFront
     }
     public static void main(String[] args)
     {
-        System.out.println(extraFront("Hello");
+        System.out.println(extraFront("Hello"));
         System.out.println(extraFront("java"));
         System.out.println(extraFront("h"));
 
