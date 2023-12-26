@@ -17,8 +17,8 @@ public class WithOut2
     }
     public static void main(String[] args)
     {
-        System.out.println(without2("hellohe"));
-        System.out.println(without2("javaja"));
+        System.out.println(without2("Hello"));
+        System.out.println(without2("java"));
         System.out.println(without2("h"));
 
     }
