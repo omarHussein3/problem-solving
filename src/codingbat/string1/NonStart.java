@@ -8,7 +8,6 @@ public class NonStart
     }
     public static void main(String[] args)
     {
-
      System.out.println(nonStart("Hello", "hi"));
         System.out.println(nonStart("hi", "Hello"));
         System.out.println(nonStart("aaa", "bc"));
