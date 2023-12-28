@@ -2,15 +2,15 @@ package codingbat.logic1;
 
 public class SortaSum
 {
-    public int sortaSum(int a, int b) {
+    public static int sortaSum(int a, int b) {
         if ( a + b >= 10 && a + b <= 19 )
             return 20;
         else return ( a + b );
     }
     public static void main(String[] args) {
-        System.out.println(caughtSpeeding(60, false));
-        System.out.println(caughtSpeeding(65, false));
-        System.out.println(caughtSpeeding(65, true));
+        System.out.println(sortaSum(3, 4));
+        System.out.println(sortaSum(9, 4));
+        System.out.println(sortaSum(10, 11));
 
     }
 }
