@@ -20,4 +20,5 @@ public class MakeMiddle
         System.out.println(Arrays.toString(makeMiddle(new int[]{1, 2})));
 
     }
+
 }
